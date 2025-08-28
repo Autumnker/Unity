@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Project\\AR_Space_Ship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|d:\\unity\\project\\ar_space_ship\\assets\\scripts\\mytracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mytracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|d:\\unity\\project\\ar_space_ship\\assets\\scripts\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|d:\\unity\\project\\ar_space_ship\\assets\\scripts\\utils\\tp_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\tp_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|d:\\unity\\project\\ar_space_ship\\assets\\scripts\\utils\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|d:\\unity\\project\\ar_space_ship\\assets\\scripts\\ui\\mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|d:\\unity\\project\\ar_space_ship\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|d:\\unity\\project\\ar_space_ship\\assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|d:\\unity\\project\\ar_space_ship\\assets\\scripts\\ui\\dialogpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5570CD30-DD55-97AF-BC7B-3C10E968435F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\dialogpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyTracking.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\MyTracking.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MyTracking.cs",
+              "ToolTip": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\MyTracking.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MyTracking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:49:40.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moving.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\Moving.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Moving.cs",
+              "ToolTip": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\Moving.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Moving.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:48:48.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TP_Camera.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\Utils\\TP_Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\TP_Camera.cs",
+              "ToolTip": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\Utils\\TP_Camera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\TP_Camera.cs",
+              "ViewState": "AgIAAKABAAAAAAAAAAAqwL4BAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:47:41.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\Utils\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\CameraController.cs",
+              "ToolTip": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\Utils\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\CameraController.cs",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAqwLkBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:46:10.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPanel.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\UI\\MainPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainPanel.cs",
+              "ToolTip": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\UI\\MainPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainPanel.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:45:04.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:43:46.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ToolTip": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:40:06.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DialogPanel.cs",
+              "DocumentMoniker": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\UI\\DialogPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DialogPanel.cs",
+              "ToolTip": "D:\\Unity\\Project\\AR_Space_Ship\\Assets\\Scripts\\UI\\DialogPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DialogPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:47:09.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
